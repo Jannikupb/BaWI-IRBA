@@ -1,0 +1,5 @@
+### `requirements.txt`
+
+```text
+scipy>=1.10.0
+openpyxl>=3.1.0
